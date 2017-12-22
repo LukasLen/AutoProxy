@@ -14,6 +14,8 @@ You can find the compiled files under /release.
 
 Put in the SSID of the WiFi-Network you want your proxy to be turned on and click on "Save". Then you can hide it (It will show up in the System Tray).
 
+![Window Image](window.png?raw=true "Settings")
+
 ## Contributing
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
