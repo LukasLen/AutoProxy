@@ -4,6 +4,8 @@ Automatically turns your proxy on or off based on the current WiFi-SSID. It has 
 
 ### To Do
 * Add support for multiple SSIDs - [Like this](http://java-demos.blogspot.co.at/2012/10/add-remove-contents-jlist-dynamically.html)
+* Test on multiple OSs
+* Maybe add support for Ethernet interfaces
 
 ## Getting Started
 
