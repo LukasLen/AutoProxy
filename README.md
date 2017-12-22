@@ -2,6 +2,9 @@
 
 Automatically turns your proxy on or off based on the current WiFi-SSID. It has yet been tested on Windows 10 and works there perfectly.
 
+### To Do
+* Add support for multiple SSIDs - [Like this](http://java-demos.blogspot.co.at/2012/10/add-remove-contents-jlist-dynamically.html)
+
 ## Getting Started
 
 You can use Eclipse to directly open the project. However, you may want to use other IDEs, in this case copy the .java files into an existing project.
