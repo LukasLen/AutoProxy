@@ -1,3 +1,5 @@
+**Discontinued:** As this was a program I made early on while learning Java and because the codebase is really bad, I am not going to pursue this project.
+
 # AutoProxy ![AutoProxy Logo](source/iconON.png?raw=true "AutoProxy")
 
 Automatically turns your proxy on or off based on the current WiFi-SSID. It has yet been tested on Windows 10 and works there perfectly.
